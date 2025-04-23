@@ -2,3 +2,4 @@
 # first_odoo
 # first_odoo
 # contact_repo
+# odooapp
